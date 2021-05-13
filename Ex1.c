@@ -18,3 +18,4 @@ int main ()
     printf("\n El producto es %f", multiplica);
     printf("\n El cociente es %f", division);
     return 0;
+}
